@@ -1,3 +1,3 @@
 # bookish-umbrella
 
-a simple calculator in
+a simple calculator in C
